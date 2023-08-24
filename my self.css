@@ -1,0 +1,27 @@
+body
+{
+  background: linear-gradient
+  (to bottom,orange 0%,orange 17%
+  ,white 20%,white 66%,green 69%,green 100%)
+}
+.first
+{
+  background-color:rgba(255, 166, 0, 0.823);
+  height:350px;
+  width:920px;
+}
+.second
+{
+  background-color:white;
+  height:350px;
+  width:920px;
+}
+.third
+{
+  background-color:forestgreen;
+  height:350px;
+  width:920px;
+}
+table,tr,th,td{
+  border: 1px solid black;
+}
